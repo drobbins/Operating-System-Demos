@@ -7,6 +7,9 @@ Demo code for OS class.
 This repository now includes a small POSIX threads demo in
 `/home/runner/work/Operating-System-Demos/Operating-System-Demos/thread_demo.c`.
 
+A companion slide deck for presenting and explaining the demo is in
+`/home/runner/work/Operating-System-Demos/Operating-System-Demos/thread_demo_slides.md`.
+
 ### Build
 
 ```bash
